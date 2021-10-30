@@ -1,0 +1,13 @@
+.filter-container{
+    padding-left: 15px;
+}
+.unCheck-icon{
+    font-size: 14px;
+    margin-right: 5px;
+}
+.check-icon{
+    font-size: 14px;
+    margin-right: 5px;
+    color: #4f46e5;
+    background-color: #ffffff;
+}

@@ -1,0 +1,14 @@
+.profile-card {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px;
+  text-align: initial;
+  color: #b6c5ff;
+  border-radius: 15px;
+}
+.loader-view {
+  height: 30vh;
+  display: grid;
+  place-items: center;
+}
